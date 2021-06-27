@@ -166,4 +166,5 @@ GET http://127.0.0.1:5000/api/users?limit=1&offset=1
 }
 ```
 
-Todo endpoint is similar to Users endpoint.
+
+Dobra dobra zupa z bobra
